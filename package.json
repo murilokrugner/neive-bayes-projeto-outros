@@ -1,0 +1,10 @@
+{
+  "name": "Outros",
+  "version": "1.0.0",
+  "autor": "Murilo A Krugner A Leite && Luis Coradi",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bayes": "^1.0.0"
+  }
+}
